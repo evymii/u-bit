@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "u-bit backend",
+  "keywords": [
+    "backend"
+  ],
+  "homepage": "https://github.com/evymii/u-bit#readme",
+  "bugs": {
+    "url": "https://github.com/evymii/u-bit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evymii/u-bit.git"
+  },
+  "license": "ISC",
+  "author": "mio",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  }
+}
